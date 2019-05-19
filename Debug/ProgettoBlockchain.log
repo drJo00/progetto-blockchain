@@ -1,0 +1,159 @@
+﻿  Block.cpp
+  Chain.cpp
+  ProgettoBlockchain.cpp
+d:\разные файлы\универ\структуры и алгоритмы од\4 семестр\лабораторные\blockchain\progettoblockchain\progettoblockchain\progettoblockchain.cpp(126): warning C4018: <: несоответствие типов со знаком и без знака
+  Transaction.cpp
+  Создание кода...
+d:\разные файлы\универ\структуры и алгоритмы од\4 семестр\лабораторные\blockchain\progettoblockchain\progettoblockchain\progettoblockchain.cpp(59): warning C4172: возвращение адреса локальной или временной переменной : digest
+cryptlib.lib(cryptlib.obj) : error LNK2038: обнаружено несоответствие для "_ITERATOR_DEBUG_LEVEL": значение "0" не соответствует значению "2" в Block.obj
+cryptlib.lib(cryptlib.obj) : error LNK2038: обнаружено несоответствие для "RuntimeLibrary": значение "MT_StaticRelease" не соответствует значению "MTd_StaticDebug" в Block.obj
+cryptlib.lib(misc.obj) : error LNK2038: обнаружено несоответствие для "_ITERATOR_DEBUG_LEVEL": значение "0" не соответствует значению "2" в Block.obj
+cryptlib.lib(misc.obj) : error LNK2038: обнаружено несоответствие для "RuntimeLibrary": значение "MT_StaticRelease" не соответствует значению "MTd_StaticDebug" в Block.obj
+cryptlib.lib(filters.obj) : error LNK2038: обнаружено несоответствие для "_ITERATOR_DEBUG_LEVEL": значение "0" не соответствует значению "2" в Block.obj
+cryptlib.lib(filters.obj) : error LNK2038: обнаружено несоответствие для "RuntimeLibrary": значение "MT_StaticRelease" не соответствует значению "MTd_StaticDebug" в Block.obj
+cryptlib.lib(iterhash.obj) : error LNK2038: обнаружено несоответствие для "_ITERATOR_DEBUG_LEVEL": значение "0" не соответствует значению "2" в Block.obj
+cryptlib.lib(iterhash.obj) : error LNK2038: обнаружено несоответствие для "RuntimeLibrary": значение "MT_StaticRelease" не соответствует значению "MTd_StaticDebug" в Block.obj
+cryptlib.lib(sha.obj) : error LNK2038: обнаружено несоответствие для "_ITERATOR_DEBUG_LEVEL": значение "0" не соответствует значению "2" в Block.obj
+cryptlib.lib(sha.obj) : error LNK2038: обнаружено несоответствие для "RuntimeLibrary": значение "MT_StaticRelease" не соответствует значению "MTd_StaticDebug" в Block.obj
+cryptlib.lib(queue.obj) : error LNK2038: обнаружено несоответствие для "_ITERATOR_DEBUG_LEVEL": значение "0" не соответствует значению "2" в Block.obj
+cryptlib.lib(queue.obj) : error LNK2038: обнаружено несоответствие для "RuntimeLibrary": значение "MT_StaticRelease" не соответствует значению "MTd_StaticDebug" в Block.obj
+cryptlib.lib(integer.obj) : error LNK2038: обнаружено несоответствие для "_ITERATOR_DEBUG_LEVEL": значение "0" не соответствует значению "2" в Block.obj
+cryptlib.lib(integer.obj) : error LNK2038: обнаружено несоответствие для "RuntimeLibrary": значение "MT_StaticRelease" не соответствует значению "MTd_StaticDebug" в Block.obj
+cryptlib.lib(algparam.obj) : error LNK2038: обнаружено несоответствие для "_ITERATOR_DEBUG_LEVEL": значение "0" не соответствует значению "2" в Block.obj
+cryptlib.lib(algparam.obj) : error LNK2038: обнаружено несоответствие для "RuntimeLibrary": значение "MT_StaticRelease" не соответствует значению "MTd_StaticDebug" в Block.obj
+cryptlib.lib(basecode.obj) : error LNK2038: обнаружено несоответствие для "_ITERATOR_DEBUG_LEVEL": значение "0" не соответствует значению "2" в Block.obj
+cryptlib.lib(basecode.obj) : error LNK2038: обнаружено несоответствие для "RuntimeLibrary": значение "MT_StaticRelease" не соответствует значению "MTd_StaticDebug" в Block.obj
+cryptlib.lib(hex.obj) : error LNK2038: обнаружено несоответствие для "_ITERATOR_DEBUG_LEVEL": значение "0" не соответствует значению "2" в Block.obj
+cryptlib.lib(hex.obj) : error LNK2038: обнаружено несоответствие для "RuntimeLibrary": значение "MT_StaticRelease" не соответствует значению "MTd_StaticDebug" в Block.obj
+cryptlib.lib(fips140.obj) : error LNK2038: обнаружено несоответствие для "_ITERATOR_DEBUG_LEVEL": значение "0" не соответствует значению "2" в Block.obj
+cryptlib.lib(fips140.obj) : error LNK2038: обнаружено несоответствие для "RuntimeLibrary": значение "MT_StaticRelease" не соответствует значению "MTd_StaticDebug" в Block.obj
+cryptlib.lib(pubkey.obj) : error LNK2038: обнаружено несоответствие для "_ITERATOR_DEBUG_LEVEL": значение "0" не соответствует значению "2" в Block.obj
+cryptlib.lib(pubkey.obj) : error LNK2038: обнаружено несоответствие для "RuntimeLibrary": значение "MT_StaticRelease" не соответствует значению "MTd_StaticDebug" в Block.obj
+cryptlib.lib(gfpcrypt.obj) : error LNK2038: обнаружено несоответствие для "_ITERATOR_DEBUG_LEVEL": значение "0" не соответствует значению "2" в Block.obj
+cryptlib.lib(gfpcrypt.obj) : error LNK2038: обнаружено несоответствие для "RuntimeLibrary": значение "MT_StaticRelease" не соответствует значению "MTd_StaticDebug" в Block.obj
+cryptlib.lib(asn.obj) : error LNK2038: обнаружено несоответствие для "_ITERATOR_DEBUG_LEVEL": значение "0" не соответствует значению "2" в Block.obj
+cryptlib.lib(asn.obj) : error LNK2038: обнаружено несоответствие для "RuntimeLibrary": значение "MT_StaticRelease" не соответствует значению "MTd_StaticDebug" в Block.obj
+cryptlib.lib(ecp.obj) : error LNK2038: обнаружено несоответствие для "_ITERATOR_DEBUG_LEVEL": значение "0" не соответствует значению "2" в Block.obj
+cryptlib.lib(ecp.obj) : error LNK2038: обнаружено несоответствие для "RuntimeLibrary": значение "MT_StaticRelease" не соответствует значению "MTd_StaticDebug" в Block.obj
+cryptlib.lib(dll.obj) : error LNK2038: обнаружено несоответствие для "_ITERATOR_DEBUG_LEVEL": значение "0" не соответствует значению "2" в Block.obj
+cryptlib.lib(dll.obj) : error LNK2038: обнаружено несоответствие для "RuntimeLibrary": значение "MT_StaticRelease" не соответствует значению "MTd_StaticDebug" в Block.obj
+cryptlib.lib(randpool.obj) : error LNK2038: обнаружено несоответствие для "_ITERATOR_DEBUG_LEVEL": значение "0" не соответствует значению "2" в Block.obj
+cryptlib.lib(randpool.obj) : error LNK2038: обнаружено несоответствие для "RuntimeLibrary": значение "MT_StaticRelease" не соответствует значению "MTd_StaticDebug" в Block.obj
+cryptlib.lib(osrng.obj) : error LNK2038: обнаружено несоответствие для "_ITERATOR_DEBUG_LEVEL": значение "0" не соответствует значению "2" в Block.obj
+cryptlib.lib(osrng.obj) : error LNK2038: обнаружено несоответствие для "RuntimeLibrary": значение "MT_StaticRelease" не соответствует значению "MTd_StaticDebug" в Block.obj
+cryptlib.lib(pch.obj) : error LNK2038: обнаружено несоответствие для "_ITERATOR_DEBUG_LEVEL": значение "0" не соответствует значению "2" в Block.obj
+cryptlib.lib(pch.obj) : error LNK2038: обнаружено несоответствие для "RuntimeLibrary": значение "MT_StaticRelease" не соответствует значению "MTd_StaticDebug" в Block.obj
+cryptlib.lib(mqueue.obj) : error LNK2038: обнаружено несоответствие для "_ITERATOR_DEBUG_LEVEL": значение "0" не соответствует значению "2" в Block.obj
+cryptlib.lib(mqueue.obj) : error LNK2038: обнаружено несоответствие для "RuntimeLibrary": значение "MT_StaticRelease" не соответствует значению "MTd_StaticDebug" в Block.obj
+cryptlib.lib(cpu.obj) : error LNK2038: обнаружено несоответствие для "_ITERATOR_DEBUG_LEVEL": значение "0" не соответствует значению "2" в Block.obj
+cryptlib.lib(cpu.obj) : error LNK2038: обнаружено несоответствие для "RuntimeLibrary": значение "MT_StaticRelease" не соответствует значению "MTd_StaticDebug" в Block.obj
+cryptlib.lib(sha-simd.obj) : error LNK2038: обнаружено несоответствие для "_ITERATOR_DEBUG_LEVEL": значение "0" не соответствует значению "2" в Block.obj
+cryptlib.lib(sha-simd.obj) : error LNK2038: обнаружено несоответствие для "RuntimeLibrary": значение "MT_StaticRelease" не соответствует значению "MTd_StaticDebug" в Block.obj
+cryptlib.lib(nbtheory.obj) : error LNK2038: обнаружено несоответствие для "_ITERATOR_DEBUG_LEVEL": значение "0" не соответствует значению "2" в Block.obj
+cryptlib.lib(nbtheory.obj) : error LNK2038: обнаружено несоответствие для "RuntimeLibrary": значение "MT_StaticRelease" не соответствует значению "MTd_StaticDebug" в Block.obj
+cryptlib.lib(rijndael.obj) : error LNK2038: обнаружено несоответствие для "_ITERATOR_DEBUG_LEVEL": значение "0" не соответствует значению "2" в Block.obj
+cryptlib.lib(rijndael.obj) : error LNK2038: обнаружено несоответствие для "RuntimeLibrary": значение "MT_StaticRelease" не соответствует значению "MTd_StaticDebug" в Block.obj
+cryptlib.lib(modes.obj) : error LNK2038: обнаружено несоответствие для "_ITERATOR_DEBUG_LEVEL": значение "0" не соответствует значению "2" в Block.obj
+cryptlib.lib(modes.obj) : error LNK2038: обнаружено несоответствие для "RuntimeLibrary": значение "MT_StaticRelease" не соответствует значению "MTd_StaticDebug" в Block.obj
+cryptlib.lib(gf2n.obj) : error LNK2038: обнаружено несоответствие для "_ITERATOR_DEBUG_LEVEL": значение "0" не соответствует значению "2" в Block.obj
+cryptlib.lib(gf2n.obj) : error LNK2038: обнаружено несоответствие для "RuntimeLibrary": значение "MT_StaticRelease" не соответствует значению "MTd_StaticDebug" в Block.obj
+cryptlib.lib(ec2n.obj) : error LNK2038: обнаружено несоответствие для "_ITERATOR_DEBUG_LEVEL": значение "0" не соответствует значению "2" в Block.obj
+cryptlib.lib(ec2n.obj) : error LNK2038: обнаружено несоответствие для "RuntimeLibrary": значение "MT_StaticRelease" не соответствует значению "MTd_StaticDebug" в Block.obj
+cryptlib.lib(rng.obj) : error LNK2038: обнаружено несоответствие для "_ITERATOR_DEBUG_LEVEL": значение "0" не соответствует значению "2" в Block.obj
+cryptlib.lib(rng.obj) : error LNK2038: обнаружено несоответствие для "RuntimeLibrary": значение "MT_StaticRelease" не соответствует значению "MTd_StaticDebug" в Block.obj
+cryptlib.lib(hrtimer.obj) : error LNK2038: обнаружено несоответствие для "_ITERATOR_DEBUG_LEVEL": значение "0" не соответствует значению "2" в Block.obj
+cryptlib.lib(hrtimer.obj) : error LNK2038: обнаружено несоответствие для "RuntimeLibrary": значение "MT_StaticRelease" не соответствует значению "MTd_StaticDebug" в Block.obj
+cryptlib.lib(sse-simd.obj) : error LNK2038: обнаружено несоответствие для "_ITERATOR_DEBUG_LEVEL": значение "0" не соответствует значению "2" в Block.obj
+cryptlib.lib(sse-simd.obj) : error LNK2038: обнаружено несоответствие для "RuntimeLibrary": значение "MT_StaticRelease" не соответствует значению "MTd_StaticDebug" в Block.obj
+cryptlib.lib(rijndael-simd.obj) : error LNK2038: обнаружено несоответствие для "_ITERATOR_DEBUG_LEVEL": значение "0" не соответствует значению "2" в Block.obj
+cryptlib.lib(rijndael-simd.obj) : error LNK2038: обнаружено несоответствие для "RuntimeLibrary": значение "MT_StaticRelease" не соответствует значению "MTd_StaticDebug" в Block.obj
+cryptlib.lib(rdtables.obj) : error LNK2038: обнаружено несоответствие для "_ITERATOR_DEBUG_LEVEL": значение "0" не соответствует значению "2" в Block.obj
+cryptlib.lib(rdtables.obj) : error LNK2038: обнаружено несоответствие для "RuntimeLibrary": значение "MT_StaticRelease" не соответствует значению "MTd_StaticDebug" в Block.obj
+libcpmtd.lib(wlocale.obj) : error LNK2001: неразрешенный внешний символ "__calloc_dbg"
+libcpmtd.lib(xlocale.obj) : error LNK2001: неразрешенный внешний символ "__calloc_dbg"
+libcpmtd.lib(cond.obj) : error LNK2001: неразрешенный внешний символ "__calloc_dbg"
+ProgettoBlockchain.obj : error LNK2001: неразрешенный внешний символ "__calloc_dbg"
+libcpmtd.lib(_tolower.obj) : error LNK2001: неразрешенный внешний символ "__calloc_dbg"
+libcpmtd.lib(mutex.obj) : error LNK2001: неразрешенный внешний символ "__calloc_dbg"
+libcpmtd.lib(locale.obj) : error LNK2001: неразрешенный внешний символ "__calloc_dbg"
+libcpmtd.lib(xlocale.obj) : error LNK2001: неразрешенный внешний символ "__free_dbg"
+libcpmtd.lib(cond.obj) : error LNK2001: неразрешенный внешний символ "__free_dbg"
+libcpmtd.lib(xwcsxfrm.obj) : error LNK2001: неразрешенный внешний символ "__free_dbg"
+libcpmtd.lib(StlCompareStringA.obj) : error LNK2001: неразрешенный внешний символ "__free_dbg"
+libcpmtd.lib(cerr.obj) : error LNK2001: неразрешенный внешний символ "__free_dbg"
+libcpmtd.lib(StlLCMapStringA.obj) : error LNK2001: неразрешенный внешний символ "__free_dbg"
+libcpmtd.lib(locale.obj) : error LNK2001: неразрешенный внешний символ "__free_dbg"
+libcpmtd.lib(wlocale.obj) : error LNK2001: неразрешенный внешний символ "__free_dbg"
+ProgettoBlockchain.obj : error LNK2001: неразрешенный внешний символ "__free_dbg"
+libcpmtd.lib(locale0.obj) : error LNK2001: неразрешенный внешний символ "__free_dbg"
+libcpmtd.lib(mutex.obj) : error LNK2001: неразрешенный внешний символ "__free_dbg"
+libcpmtd.lib(cout.obj) : error LNK2001: неразрешенный внешний символ "__free_dbg"
+libcpmtd.lib(xwcsxfrm.obj) : error LNK2001: неразрешенный внешний символ "__malloc_dbg"
+libcpmtd.lib(StlCompareStringA.obj) : error LNK2001: неразрешенный внешний символ "__malloc_dbg"
+libcpmtd.lib(StlLCMapStringA.obj) : error LNK2001: неразрешенный внешний символ "__malloc_dbg"
+libcpmtd.lib(locale.obj) : error LNK2001: неразрешенный внешний символ "__malloc_dbg"
+libcpmtd.lib(wlocale.obj) : error LNK2001: неразрешенный внешний символ "__malloc_dbg"
+libcpmtd.lib(xlocale.obj) : error LNK2001: неразрешенный внешний символ "__malloc_dbg"
+ProgettoBlockchain.obj : error LNK2001: неразрешенный внешний символ "__malloc_dbg"
+libcpmtd.lib(locale0.obj) : error LNK2001: неразрешенный внешний символ "__malloc_dbg"
+libcpmtd.lib(cout.obj) : error LNK2001: неразрешенный внешний символ "__malloc_dbg"
+libcpmtd.lib(cerr.obj) : error LNK2001: неразрешенный внешний символ "__malloc_dbg"
+libconcrtd.lib(UMSBackgroundPoller.obj) : error LNK2001: неразрешенный внешний символ "__CrtDbgReportW"
+libconcrtd.lib(UMSFreeVirtualProcessorRoot.obj) : error LNK2001: неразрешенный внешний символ "__CrtDbgReportW"
+libconcrtd.lib(ThreadProxy.obj) : error LNK2001: неразрешенный внешний символ "__CrtDbgReportW"
+libconcrtd.lib(UMSFreeThreadProxy.obj) : error LNK2001: неразрешенный внешний символ "__CrtDbgReportW"
+libconcrtd.lib(SearchAlgorithms.obj) : error LNK2001: неразрешенный внешний символ "__CrtDbgReportW"
+libconcrtd.lib(location.obj) : error LNK2001: неразрешенный внешний символ "__CrtDbgReportW"
+libconcrtd.lib(Chores.obj) : error LNK2001: неразрешенный внешний символ "__CrtDbgReportW"
+libconcrtd.lib(VirtualProcessorRoot.obj) : error LNK2001: неразрешенный внешний символ "__CrtDbgReportW"
+libconcrtd.lib(FreeVirtualProcessorRoot.obj) : error LNK2001: неразрешенный внешний символ "__CrtDbgReportW"
+libconcrtd.lib(FreeThreadProxy.obj) : error LNK2001: неразрешенный внешний символ "__CrtDbgReportW"
+libconcrtd.lib(TransmogrifiedPrimary.obj) : error LNK2001: неразрешенный внешний символ "__CrtDbgReportW"
+libconcrtd.lib(Transmogrificator.obj) : error LNK2001: неразрешенный внешний символ "__CrtDbgReportW"
+libconcrtd.lib(TaskCollectionBase.obj) : error LNK2001: неразрешенный внешний символ "__CrtDbgReportW"
+libconcrtd.lib(WorkQueue.obj) : error LNK2001: неразрешенный внешний символ "__CrtDbgReportW"
+libconcrtd.lib(FairScheduleGroup.obj) : error LNK2001: неразрешенный внешний символ "__CrtDbgReportW"
+libconcrtd.lib(ExternalContextBase.obj) : error LNK2001: неразрешенный внешний символ "__CrtDbgReportW"
+libconcrtd.lib(UMSThreadVirtualProcessor.obj) : error LNK2001: неразрешенный внешний символ "__CrtDbgReportW"
+libconcrtd.lib(UMSThreadInternalContext.obj) : error LNK2001: неразрешенный внешний символ "__CrtDbgReportW"
+libconcrtd.lib(SubAllocator.obj) : error LNK2001: неразрешенный внешний символ "__CrtDbgReportW"
+libconcrtd.lib(SchedulingRing.obj) : error LNK2001: неразрешенный внешний символ "__CrtDbgReportW"
+libconcrtd.lib(ScheduleGroupBase.obj) : error LNK2001: неразрешенный внешний символ "__CrtDbgReportW"
+libconcrtd.lib(CacheLocalScheduleGroup.obj) : error LNK2001: неразрешенный внешний символ "__CrtDbgReportW"
+libconcrtd.lib(ThreadProxyFactoryManager.obj) : error LNK2001: неразрешенный внешний символ "__CrtDbgReportW"
+libconcrtd.lib(InternalContextBase.obj) : error LNK2001: неразрешенный внешний символ "__CrtDbgReportW"
+libconcrtd.lib(VirtualProcessor.obj) : error LNK2001: неразрешенный внешний символ "__CrtDbgReportW"
+libconcrtd.lib(SchedulingNode.obj) : error LNK2001: неразрешенный внешний символ "__CrtDbgReportW"
+libconcrtd.lib(ExecutionResource.obj) : error LNK2001: неразрешенный внешний символ "__CrtDbgReportW"
+libconcrtd.lib(HillClimbing.obj) : error LNK2001: неразрешенный внешний символ "__CrtDbgReportW"
+libconcrtd.lib(SchedulerProxy.obj) : error LNK2001: неразрешенный внешний символ "__CrtDbgReportW"
+libconcrtd.lib(WinRTWrapper.obj) : error LNK2001: неразрешенный внешний символ "__CrtDbgReportW"
+libconcrtd.lib(UMSThreadProxy.obj) : error LNK2001: неразрешенный внешний символ "__CrtDbgReportW"
+libconcrtd.lib(ContextBase.obj) : error LNK2001: неразрешенный внешний символ "__CrtDbgReportW"
+libconcrtd.lib(TaskCollection.obj) : error LNK2001: неразрешенный внешний символ "__CrtDbgReportW"
+libconcrtd.lib(SchedulerPolicyBase.obj) : error LNK2001: неразрешенный внешний символ "__CrtDbgReportW"
+libconcrtd.lib(utils.obj) : error LNK2001: неразрешенный внешний символ "__CrtDbgReportW"
+libconcrtd.lib(ResourceManager.obj) : error LNK2001: неразрешенный внешний символ "__CrtDbgReportW"
+libconcrtd.lib(SchedulerBase.obj) : error LNK2001: неразрешенный внешний символ "__CrtDbgReportW"
+libconcrtd.lib(UMSWrapper.obj) : error LNK2001: неразрешенный внешний символ "__CrtDbgReportW"
+libcpmtd.lib(StlCompareStringA.obj) : error LNK2001: неразрешенный внешний символ "__CrtDbgReportW"
+libconcrtd.lib(rtlocks.obj) : error LNK2001: неразрешенный внешний символ "__CrtDbgReportW"
+libconcrtd.lib(event.obj) : error LNK2001: неразрешенный внешний символ "__CrtDbgReportW"
+libconcrtd.lib(Platform.obj) : error LNK2001: неразрешенный внешний символ "__CrtDbgReportW"
+libcpmtd.lib(locale.obj) : error LNK2001: неразрешенный внешний символ "__CrtDbgReportW"
+libcpmtd.lib(wlocale.obj) : error LNK2001: неразрешенный внешний символ "__CrtDbgReportW"
+libcpmtd.lib(xlocale.obj) : error LNK2001: неразрешенный внешний символ "__CrtDbgReportW"
+libcpmtd.lib(xmbtowc.obj) : error LNK2001: неразрешенный внешний символ "__CrtDbgReportW"
+libcpmtd.lib(thread0.obj) : error LNK2001: неразрешенный внешний символ "__CrtDbgReportW"
+libcpmtd.lib(cout.obj) : error LNK2001: неразрешенный внешний символ "__CrtDbgReportW"
+libcpmtd.lib(cerr.obj) : error LNK2001: неразрешенный внешний символ "__CrtDbgReportW"
+libcpmtd.lib(StlLCMapStringA.obj) : error LNK2001: неразрешенный внешний символ "__CrtDbgReportW"
+ProgettoBlockchain.obj : error LNK2001: неразрешенный внешний символ "__CrtDbgReportW"
+libcpmtd.lib(stdthrow.obj) : error LNK2001: неразрешенный внешний символ "__CrtDbgReportW"
+libcpmtd.lib(xonce.obj) : error LNK2001: неразрешенный внешний символ "__CrtDbgReportW"
+libcpmtd.lib(syserror.obj) : error LNK2001: неразрешенный внешний символ "__CrtDbgReportW"
+libcpmtd.lib(_tolower.obj) : error LNK2019: ссылка на неразрешенный внешний символ __wcsdup_dbg в функции __Getctype
+libcpmtd.lib(xstrcoll.obj) : error LNK2001: неразрешенный внешний символ "__wcsdup_dbg"
+libcpmtd.lib(locale.obj) : error LNK2019: ссылка на неразрешенный внешний символ __realloc_dbg в функции "private: static void __cdecl std::locale::_Locimp::_Locimp_Addfac(class std::locale::_Locimp *,class std::locale::facet *,unsigned int)" (?_Locimp_Addfac@_Locimp@locale@std@@CAXPAV123@PAVfacet@23@I@Z)
+libconcrtd.lib(SubAllocator.obj) : error LNK2019: ссылка на неразрешенный внешний символ __CrtIsValidHeapPointer в функции "private: bool __thiscall Concurrency::details::SubAllocator::InitAndCheckBlockOnAlloc(union Concurrency::details::AllocationEntry *,unsigned int)" (?InitAndCheckBlockOnAlloc@SubAllocator@details@Concurrency@@AAE_NPATAllocationEntry@23@I@Z)
+D:\Разные файлы\Универ\Структуры и алгоритмы ОД\4 семестр\Лабораторные\Blockchain\ProgettoBlockchain\Debug\ProgettoBlockchain.exe : fatal error LNK1120: неразрешенных внешних элементов: 7

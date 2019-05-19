@@ -1,0 +1,10 @@
+﻿  stdafx.cpp
+  Block.cpp
+  Chain.cpp
+d:\разные файлы\универ\структуры и алгоритмы од\4 семестр\лабораторные\blockchain\progettoblockchain\progettoblockchain\crypto.h(3): fatal error C1083: Не удается открыть файл включение: crypto\sha.h: No such file or directory,
+  Mainer.cpp
+d:\разные файлы\универ\структуры и алгоритмы од\4 семестр\лабораторные\blockchain\progettoblockchain\progettoblockchain\crypto.h(3): fatal error C1083: Не удается открыть файл включение: crypto\sha.h: No such file or directory,
+  ProgettoBlockchain.cpp
+d:\разные файлы\универ\структуры и алгоритмы од\4 семестр\лабораторные\blockchain\progettoblockchain\progettoblockchain\crypto.h(3): fatal error C1083: Не удается открыть файл включение: crypto\sha.h: No such file or directory,
+  Transaction.cpp
+d:\разные файлы\универ\структуры и алгоритмы од\4 семестр\лабораторные\blockchain\progettoblockchain\progettoblockchain\crypto.h(3): fatal error C1083: Не удается открыть файл включение: crypto\sha.h: No such file or directory,
